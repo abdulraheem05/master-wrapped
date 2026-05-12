@@ -11,13 +11,23 @@ This project showcases a blend of **Full-Stack Engineering** and **Creative Dire
 
 ---
 
-## 🕹️ Live Demo Access
+## 🌐 Live Demo
 
-To ensure a seamless experience while the primary production database is undergoing maintenance, a **Demo Mode** has been implemented. 
+Experience the live project here:
 
-Please use the following credentials to unlock the full interactive experience:
+**[www.masterwrapped.me](https://www.masterwrapped.me)**
+
+Use the following demo credentials to unlock the full interactive experience:
 
 | Field | Value |
 | :--- | :--- |
-| **FULL NAME** | `MASTER ACADEMY` |
-| **MOBILE NUMBER** | `123456789` |
+| **Full Name** | `MASTER ACADEMY` |
+| **Mobile Number** | `123456789` |
+
+---
+
+## ℹ️ Note
+
+The original production repository used for deployment has been kept private because it may contain project-specific configuration, private implementation details, and information related to students or teachers.
+
+This public repository is a cleaned demo version created for portfolio and showcase purposes only. It does not include any private student records, sensitive data, or backend/database files.
